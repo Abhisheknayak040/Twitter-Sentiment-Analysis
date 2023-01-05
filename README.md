@@ -1,6 +1,5 @@
 # Twitter Sentiment Analysis by using Logistic Regressions and Naive Bayes Classification
 Hi!
-I am Omveer Yadav, currently studying in Final year and persuing my Bachelor's of technology in Information Technology
 
 ## Aim
 To Perform sentiment analysis of tweets using logistic regression and then understanding naïve Bayes classification on training our model. [Twitter Sentiment Analysis Project](https://github.com/Omyadavjss/Twitter-Sentiment-Analysis/blob/main/main_project_using_Logistic_Regression.ipynb)
